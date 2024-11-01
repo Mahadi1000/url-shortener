@@ -92,7 +92,7 @@ const LinkDetail = async ({ params, searchParams }: Props) => {
           <div className="flex items-center flex-col gap-3">
             <AlertTriangle size={32} className="text-red-300" />
             <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900 text">
-              Oops! Page not found.{" "}
+              Oops! Page not found.
             </h2>
           </div>
 
