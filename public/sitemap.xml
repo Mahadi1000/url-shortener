@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://trixurl.vercel.app/</loc>
+    <lastmod>2023-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://trixurl.vercel.app/auth/login</loc>
+    <lastmod>2023-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://trixurl.vercel.app/auth/register</loc>
+    <lastmod>2023-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://trixurl.vercel.app/auth/auth</loc>
+    <lastmod>2023-10-07</lastmod>
+  </url>
+</urlset>
