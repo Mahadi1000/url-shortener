@@ -8,22 +8,22 @@ import { useTheme } from "next-themes";
 
 const socialMediaLinks = [
   {
-    label: "Tomdieu github account",
-    href: "https://github.com/Tomdieu/url-shortener",
+    label: "Mahadi github account",
+    href: "https://github.com/Mahadi1000",
     icon: (
       <Github className="text-stone-900 dark:text-stone-50 hover:text-blue-500 transition ease-in rounded-sm w-5 h-5" />
     ),
   },
   {
-    label: "Tomdieu Linkedin account",
-    href: "https://www.linkedin.com/in/TomdieuIvan/",
+    label: "Mahadi Linkedin account",
+    href: "https://www.linkedin.com/in/mahadi-hasan-7027b72b4/",
     icon: (
       <Linkedin className="text-stone-900 dark:text-stone-50 hover:text-blue-500 transition ease-in rounded-sm" />
     ),
   },
   {
-    label: "Tomdieu gmail account",
-    href: "mailto:ivantomdio@gmail.com",
+    label: "Mahadi gmail account",
+    href: "mailto:muhammadmahdihasan1@gmail.com",
     icon: (
       <Mail className="text-stone-900 dark:text-stone-50 hover:text-blue-500 transition ease-in rounded-sm" />
     ),
@@ -66,10 +66,10 @@ const Footer = () => {
               <p className="text-stone-400 dark:text-stone-50 text-xs lg:text-sm">
                 Email:{" "}
                 <a href="mailto:ivantom.python@gmail.com" className="font-bold">
-                  ivantom.python@gmail.com
+                  muhammadmahdihasan1@gmail.com
                 </a>
                 <br />
-                Address: Yaounde, Cameroon
+                Address: Dhaka, Bangladesh
               </p>
             </div>
           </div>
